@@ -1,0 +1,14 @@
+
+---
+
+### ✅ `requirements.txt` Example
+
+```txt
+openai
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+tqdm

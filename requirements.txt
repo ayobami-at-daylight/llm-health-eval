@@ -1,0 +1,7 @@
+openai==0.28
+requests 
+beautifulsoup4 
+serpapi
+nltk 
+rouge-score
+python-dotenv
