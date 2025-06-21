@@ -5,3 +5,10 @@ serpapi
 nltk 
 rouge-score
 python-dotenv
+
+# Data analysis packages
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
