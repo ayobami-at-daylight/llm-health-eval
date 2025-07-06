@@ -1,0 +1,111 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "llm-health-eval"
+version = "1.0.0"
+description = "A comprehensive evaluation of LLM performance in health advice scenarios"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "[Your Name]", email = "[your.email@institution.edu]"}
+]
+maintainers = [
+    {name = "[Your Name]", email = "[your.email@institution.edu]"}
+]
+keywords = ["artificial intelligence", "healthcare", "large language models", "AI safety", "medical advice"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Scientific/Engineering :: Medical Science Apps.",
+]
+requires-python = ">=3.8"
+dependencies = [
+    "openai>=0.28",
+    "requests",
+    "beautifulsoup4",
+    "serpapi",
+    "nltk",
+    "rouge-score",
+    "python-dotenv",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "jupyter",
+    "scipy",
+    "scikit-learn",
+    "textstat",
+    "wordcloud",
+    "textblob",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-cov",
+    "black",
+    "flake8",
+    "mypy",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/llm-health-eval"
+Repository = "https://github.com/yourusername/llm-health-eval"
+Documentation = "https://github.com/yourusername/llm-health-eval#readme"
+Issues = "https://github.com/yourusername/llm-health-eval/issues"
+
+[project.scripts]
+llm-health-eval = "scripts.quick_analysis:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["scripts*", "data*", "results*", "docs*", "notebooks*"]
+
+[tool.setuptools.package-data]
+"*" = ["*.json", "*.csv", "*.txt", "*.png", "*.jpg", "*.pdf", "*.md", "*.ipynb"]
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''
+
+[tool.flake8]
+max-line-length = 88
+extend-ignore = ["E203", "W503"]
+exclude = [
+    ".git",
+    "__pycache__",
+    "build",
+    "dist",
+    ".eggs",
+    "*.egg",
+]
+
+[tool.mypy]
+python_version = "3.8"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true 

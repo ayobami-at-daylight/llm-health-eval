@@ -1,0 +1,22 @@
+LLM HEALTH EVALUATION - ANALYSIS SUMMARY
+==================================================
+
+Dataset: 30 health questions evaluated
+Average Overall Score: 4.76/5.0
+
+SCORES BY CRITERIA:
+• Factual Accuracy: 4.43/5.0
+• Clarity: 5.00/5.0
+• Neutrality: 5.00/5.0
+• Helpfulness: 4.60/5.0
+
+SCORES BY CATEGORY:
+• General Health: 4.86/5.0
+• Medical Procedures: 4.42/5.0
+• Mental Health: 5.00/5.0
+• Pregnancy/Reproductive Health: 4.38/5.0
+
+KEY FINDINGS:
+• Questions with concerning factual accuracy (≤2): 2
+• Questions with potential bias concerns (neutrality ≤3): 0
+• Average response length: 58.5 words

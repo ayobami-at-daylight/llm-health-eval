@@ -1,0 +1,14 @@
+MULTI-MODEL RESPONSE GENERATION SUMMARY
+==================================================
+
+Total Questions: 30
+Models Tested: 3
+Total Responses: 90
+
+Models Used:
+  - gpt-3.5-turbo
+  - gpt-4
+  - gpt-4-turbo
+
+Sample Question #1:
+  Is it safe to take ibuprofen for a headache while pregnant?

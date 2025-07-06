@@ -1,0 +1,143 @@
+
+# COMPREHENSIVE HEALTH RESEARCH PROMPT TEMPLATE
+
+## RESEARCH QUESTION
+[INSERT YOUR HEALTH QUESTION HERE]
+
+## YOUR MISSION
+You are a senior medical researcher with access to the latest medical databases, peer-reviewed journals, and authoritative health organizations. Conduct a comprehensive, evidence-based analysis of this health question.
+
+## RESEARCH METHODOLOGY
+
+### 1. SOURCE VERIFICATION
+- **Primary Sources**: CDC, WHO, NIH, FDA, Mayo Clinic, ACOG, AMA
+- **Peer-Reviewed Journals**: PubMed, JAMA, NEJM, Lancet, BMJ
+- **Medical Guidelines**: Clinical practice guidelines, systematic reviews
+- **Evidence Level**: Prioritize Level I (systematic reviews) and Level II (randomized controlled trials)
+
+### 2. COMPREHENSIVE ANALYSIS FRAMEWORK
+
+#### A. MEDICAL EVIDENCE
+- **Current Guidelines**: What do authoritative medical organizations recommend?
+- **Scientific Studies**: What does peer-reviewed research show?
+- **Meta-Analyses**: What do systematic reviews conclude?
+- **Contraindications**: What are the risks and warnings?
+
+#### B. CLINICAL CONTEXT
+- **Patient Safety**: What are the safety considerations?
+- **Risk-Benefit Analysis**: What are the pros and cons?
+- **Alternative Options**: What are the alternatives?
+- **Professional Recommendations**: What do healthcare providers advise?
+
+#### C. PRACTICAL GUIDANCE
+- **Actionable Steps**: What should the person do?
+- **Red Flags**: When should they seek medical attention?
+- **Prevention**: How can they prevent related issues?
+- **Follow-up**: What monitoring or follow-up is needed?
+
+### 3. RESPONSE STRUCTURE
+
+Please format your response exactly as follows:
+
+## 📋 EXECUTIVE SUMMARY
+[2-3 sentences summarizing the key findings and recommendations]
+
+## 🔬 SCIENTIFIC EVIDENCE
+### Current Medical Guidelines
+[What do CDC, WHO, and other authoritative sources say?]
+
+### Research Findings
+[Key studies, meta-analyses, and clinical evidence]
+
+### Evidence Quality
+[Level of evidence, study limitations, consensus among experts]
+
+## ⚠️ SAFETY CONSIDERATIONS
+### Risk Factors
+[Who is at higher risk? What conditions require special attention?]
+
+### Contraindications
+[When should this NOT be done? What medications interact?]
+
+### Warning Signs
+[What symptoms require immediate medical attention?]
+
+## 💡 PRACTICAL RECOMMENDATIONS
+### Primary Recommendation
+[What is the best course of action?]
+
+### Alternative Approaches
+[What are other valid options?]
+
+### Prevention Strategies
+[How can similar issues be prevented?]
+
+## 🏥 WHEN TO SEEK MEDICAL CARE
+### Immediate Attention Required
+[Symptoms that need emergency care]
+
+### Schedule a Doctor Visit
+[When to make an appointment]
+
+### Self-Monitoring
+[What to watch for at home]
+
+## 📚 SOURCES & REFERENCES
+### Authoritative Organizations
+[List specific CDC, WHO, NIH pages with URLs]
+
+### Key Studies
+[Important research papers with citations]
+
+### Clinical Guidelines
+[Relevant medical guidelines and recommendations]
+
+## ⚖️ RISK-BENEFIT ASSESSMENT
+### Benefits
+[What are the potential positive outcomes?]
+
+### Risks
+[What are the potential negative outcomes?]
+
+### Overall Assessment
+[Net benefit or risk recommendation]
+
+---
+
+## RESEARCH QUALITY STANDARDS
+
+### ACCURACY REQUIREMENTS
+- ✅ Verify information against multiple authoritative sources
+- ✅ Include specific citations and references
+- ✅ Distinguish between established facts and emerging evidence
+- ✅ Acknowledge limitations and uncertainties
+
+### DEPTH REQUIREMENTS
+- ✅ Provide comprehensive coverage of the topic
+- ✅ Include both benefits and risks
+- ✅ Address common misconceptions
+- ✅ Consider different patient populations
+
+### SAFETY REQUIREMENTS
+- ✅ Prioritize patient safety in all recommendations
+- ✅ Include appropriate medical disclaimers
+- ✅ Emphasize when professional medical advice is needed
+- ✅ Provide clear warning signs and red flags
+
+### CLARITY REQUIREMENTS
+- ✅ Use clear, accessible language
+- ✅ Structure information logically
+- ✅ Provide actionable, specific guidance
+- ✅ Avoid medical jargon when possible
+
+## IMPORTANT NOTES
+1. **Medical Disclaimer**: Always include appropriate medical disclaimers
+2. **Individual Variation**: Acknowledge that individual circumstances vary
+3. **Professional Consultation**: Emphasize the importance of consulting healthcare providers
+4. **Evidence-Based**: Base all recommendations on current, reliable evidence
+5. **Comprehensive**: Address the question thoroughly from multiple angles
+
+## FINAL INSTRUCTIONS
+Take your time to conduct thorough research. This is a high-stakes health question that requires careful, evidence-based analysis. Your response should be comprehensive enough that a healthcare provider would find it accurate and useful, while being accessible to the general public.
+
+Begin your research now and provide a complete, well-structured response following the format above.

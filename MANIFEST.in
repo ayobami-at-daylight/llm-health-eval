@@ -1,0 +1,33 @@
+include README.md
+include LICENSE
+include requirements.txt
+include CITATION.cff
+include .gitignore
+
+# Include data files
+recursive-include data *.json
+recursive-include data *.csv
+recursive-include data *.txt
+
+# Include results
+recursive-include results *.txt
+recursive-include results/figures *.png
+recursive-include results/figures *.jpg
+recursive-include results/figures *.pdf
+
+# Include documentation
+recursive-include docs *.md
+recursive-include docs *.txt
+
+# Include notebooks
+recursive-include notebooks *.ipynb
+
+# Include scripts
+recursive-include scripts *.py
+
+# Exclude unnecessary files
+exclude *.pyc
+exclude __pycache__
+exclude .DS_Store
+exclude .env
+exclude .env.* 

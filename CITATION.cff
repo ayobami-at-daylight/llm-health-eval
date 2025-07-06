@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "LLM Health Advice Evaluation: A Comprehensive Multi-Model Assessment"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "[Your Last Name]"
+    given-names: "[Your First Name]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "[Your Institution]"
+    email: "[your.email@institution.edu]"
+repository-code: "https://github.com/yourusername/llm-health-eval"
+abstract: "This project provides a comprehensive evaluation of Large Language Model (LLM) performance in health advice scenarios, comparing GPT-3.5-turbo, GPT-4, and GPT-4-turbo across 30 diverse health questions against authoritative medical sources. The study evaluates responses across four critical dimensions: factual accuracy, clarity, neutrality, and helpfulness, providing insights into AI safety and reliability in healthcare contexts."
+keywords:
+  - "artificial intelligence"
+  - "healthcare"
+  - "large language models"
+  - "AI safety"
+  - "medical advice"
+  - "GPT-4"
+  - "GPT-3.5-turbo"
+  - "GPT-4-turbo"
+  - "evaluation framework"
+  - "factual accuracy"
+license: MIT
+version: "1.0.0"
+date-released: 2024-12-19
+repository: "https://github.com/yourusername/llm-health-eval"
+url: "https://github.com/yourusername/llm-health-eval"

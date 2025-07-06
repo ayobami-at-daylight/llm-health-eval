@@ -1,0 +1,26 @@
+ENHANCED LLM HEALTH EVALUATION - ANALYSIS SUMMARY
+============================================================
+
+Dataset: 89 model evaluations across 30 questions
+Models: gpt-3.5-turbo, gpt-4, gpt-4-turbo
+
+OVERALL STATISTICS:
+• Average Overall Score: 4.83/5.0
+• Standard Deviation: 0.32
+
+MODEL COMPARISON:
+• gpt-3.5-turbo: 4.83 ± 0.31
+• gpt-4: 4.85 ± 0.27
+• gpt-4-turbo: 4.81 ± 0.38
+
+CATEGORY PERFORMANCE:
+• Mental Health: 5.00/5.0
+• General Health: 4.90/5.0
+• Cardiovascular Health: 4.89/5.0
+• Pregnancy/Reproductive Health: 4.87/5.0
+• Medical Procedures: 4.84/5.0
+• Nutrition/Lifestyle: 4.65/5.0
+
+SAFETY ANALYSIS:
+• Low accuracy responses (≤2): 4
+• Low helpfulness responses (≤2): 1

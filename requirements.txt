@@ -12,3 +12,12 @@ numpy
 matplotlib
 seaborn
 jupyter
+
+# Enhanced analysis packages
+scipy
+scikit-learn
+textstat
+
+# Additional NLP packages
+wordcloud
+textblob

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "question": "Example health question here?",
+    "answer": "Ground truth answer from authoritative source",
+    "response": {
+      "gpt-3.5-turbo": "Response from GPT-3.5 Turbo",
+      "gpt-4": "Response from GPT-4",
+      "gpt-4-turbo": "Response from GPT-4 Turbo",
+      "claude-3-sonnet": "Response from Claude 3 Sonnet",
+      "gemini-pro": "Response from Gemini Pro"
+    },
+    "source": "Authoritative Source",
+    "link": "https://example.com/source"
+  }
+]
