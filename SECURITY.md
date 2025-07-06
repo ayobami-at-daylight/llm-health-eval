@@ -15,7 +15,7 @@ We take the security of this project seriously. If you believe you have found a 
 ### Reporting Process
 
 1. **Do not create a public GitHub issue** for the vulnerability
-2. **Email us directly** at [your.email@institution.edu]
+2. **Email us directly** at usmanabiola.ayobami@wmich.edu
 3. **Include detailed information** about the vulnerability
 4. **Allow time for response** before public disclosure
 
@@ -99,7 +99,7 @@ Security updates will be:
 
 For security-related issues:
 
-- **Email**: [your.email@institution.edu]
+- **Email**: usmanabiola.ayobami@wmich.edu
 - **Subject**: [SECURITY] Vulnerability Report
 - **Response time**: Within 48 hours
 

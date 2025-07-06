@@ -9,10 +9,10 @@ description = "A comprehensive evaluation of LLM performance in health advice sc
 readme = "README.md"
 license = {text = "MIT"}
 authors = [
-    {name = "[Your Name]", email = "[your.email@institution.edu]"}
+    {name = "Usman Ayobami", email = "usmanabiola.ayobami@wmich.edu"}
 ]
 maintainers = [
-    {name = "[Your Name]", email = "[your.email@institution.edu]"}
+    {name = "Usman Ayobami", email = "usmanabiola.ayobami@wmich.edu"}
 ]
 keywords = ["artificial intelligence", "healthcare", "large language models", "AI safety", "medical advice"]
 classifiers = [
@@ -59,10 +59,10 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/llm-health-eval"
-Repository = "https://github.com/yourusername/llm-health-eval"
-Documentation = "https://github.com/yourusername/llm-health-eval#readme"
-Issues = "https://github.com/yourusername/llm-health-eval/issues"
+Homepage = "https://github.com/ayobami-at-daylight/llm-health-eval"
+Repository = "https://github.com/ayobami-at-daylight/llm-health-eval"
+Documentation = "https://github.com/ayobami-at-daylight/llm-health-eval#readme"
+Issues = "https://github.com/ayobami-at-daylight/llm-health-eval/issues"
 
 [project.scripts]
 llm-health-eval = "scripts.quick_analysis:main"

@@ -9,12 +9,12 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="llm-health-eval",
     version="1.0.0",
-    author="[Your Name]",
-    author_email="[your.email@institution.edu]",
+    author="Usman Ayobami",
+    author_email="usmanabiola.ayobami@wmich.edu",
     description="A comprehensive evaluation of LLM performance in health advice scenarios",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/llm-health-eval",
+    url="https://github.com/ayobami-at-daylight/llm-health-eval",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",

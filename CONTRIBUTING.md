@@ -48,7 +48,7 @@ We welcome contributions in the following areas:
 1. **Fork the repository**
 
    ```bash
-   git clone https://github.com/yourusername/llm-health-eval.git
+   git clone https://github.com/ayobami-at-daylight/llm-health-eval.git
    cd llm-health-eval
    ```
 

@@ -230,9 +230,9 @@ As AI becomes more integrated into healthcare, maintaining high standards for ac
 
 ---
 
-**Author**: [Your Name]  
-**Institution**: [Your Institution]  
-**Date**: [Current Date]  
-**Contact**: [Your Email]
+**Author**: Usman Ayobami  
+**Institution**: Western Michigan University
+**Date**: July 6, 2025  
+**Contact**: usmanabiola.ayobami@wmich.edu
 
 _This research was conducted as part of preparation for the OpenAI Residency Program._

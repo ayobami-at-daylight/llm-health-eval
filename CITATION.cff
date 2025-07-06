@@ -2,12 +2,12 @@ cff-version: 1.2.0
 title: "LLM Health Advice Evaluation: A Comprehensive Multi-Model Assessment"
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: "[Your Last Name]"
-    given-names: "[Your First Name]"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-    affiliation: "[Your Institution]"
-    email: "[your.email@institution.edu]"
-repository-code: "https://github.com/yourusername/llm-health-eval"
+  - family-names: "Ayobami"
+    given-names: "Usman"
+    orcid: "https://orcid.org/0009-0004-2695-9508"
+    affiliation: "Western Michigan University"
+    email: "usmanabiola.ayobami@wmich.edu"
+repository-code: "https://github.com/ayobami-at-daylight/llm-health-eval"
 abstract: "This project provides a comprehensive evaluation of Large Language Model (LLM) performance in health advice scenarios, comparing GPT-3.5-turbo, GPT-4, and GPT-4-turbo across 30 diverse health questions against authoritative medical sources. The study evaluates responses across four critical dimensions: factual accuracy, clarity, neutrality, and helpfulness, providing insights into AI safety and reliability in healthcare contexts."
 keywords:
   - "artificial intelligence"
@@ -22,6 +22,6 @@ keywords:
   - "factual accuracy"
 license: MIT
 version: "1.0.0"
-date-released: 2024-12-19
-repository: "https://github.com/yourusername/llm-health-eval"
-url: "https://github.com/yourusername/llm-health-eval"
+date-released: 2025-07-06
+repository: "https://github.com/ayobami-at-daylight/llm-health-eval"
+url: "https://github.com/ayobami-at-daylight/llm-health-eval"

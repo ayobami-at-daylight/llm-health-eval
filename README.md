@@ -77,7 +77,7 @@ llm-health-eval/
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/llm-health-eval.git
+git clone https://github.com/ayobami-at-daylight/llm-health-eval.git
 cd llm-health-eval
 pip install -r requirements.txt
 ```
@@ -237,8 +237,8 @@ The evaluation data, including structured assessments and visualizations, is ava
 
 ---
 
-**Author**: [Your Name]  
-**Institution**: [Your Institution]  
+**Author**: Usman Ayobami  
+**Institution**: Western Michigan University
 **Research Area**: AI Safety, Healthcare AI, LLM Evaluation, Multi-Model Comparison
 
 _This research provides critical insights into LLM performance in healthcare contexts and contributes to the development of safe, reliable AI systems for medical information delivery._

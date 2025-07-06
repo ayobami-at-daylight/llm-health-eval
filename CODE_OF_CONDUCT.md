@@ -60,7 +60,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[your.email@institution.edu].
+usmanabiola.ayobami@wmich.edu.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -123,7 +123,7 @@ do not look negatively on you if we find the incident is not a violation.
 
 ### How to Report
 
-1. **Email the community leaders** at [your.email@institution.edu]
+1. **Email the community leaders** at usmanabiola.ayobami@wmich.edu
 2. **Include as much information as possible**:
    - Who was involved
    - What happened
@@ -166,7 +166,7 @@ https://www.contributor-covenant.org/translations.
 
 For questions or concerns about this Code of Conduct, please contact:
 
-- **Email**: [your.email@institution.edu]
+- **Email**: usmanabiola.ayobami@wmich.edu
 - **Subject**: [CONDUCT] Code of Conduct Question/Concern
 
 ## Updates
